@@ -1,4 +1,4 @@
-![Bienvenido(a) a mi perfil de Github](https://i.imgur.com/K4B5hS8.png)
+![Desarrollador de software](https://i.imgur.com/6zP48V7.png)
 
 # Hola, soy Francisco
 
