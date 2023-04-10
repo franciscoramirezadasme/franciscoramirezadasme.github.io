@@ -1,28 +1,29 @@
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+# Hola, soy [Francisco]
 
+## Acerca de mí
+Soy un desarrollador de software con experiencia en [tecnologías relevantes]. Me encanta programar y disfruto resolviendo problemas complejos. Me interesa aprender nuevas tecnologías y herramientas que me permitan mejorar mis habilidades y conocimientos.
 
-## Horizontal Rules
+## Proyectos destacados
+### Proyecto 1
+Breve descripción del proyecto.
+![Captura de pantalla del proyecto](imagenes/proyecto1.png)
 
-___
+### Proyecto 2
+Breve descripción del proyecto.
+![Logo del proyecto](imagenes/proyecto2.png)
 
----
+### Proyecto 3
+Breve descripción del proyecto.
+![Diagrama del proyecto](imagenes/proyecto3.png)
 
-***
+## Enlaces
+- [Sitio web personal](enlace a tu sitio web personal)
+- [LinkedIn](enlace a tu perfil de LinkedIn)
+- [Twitter](enlace a tu perfil de Twitter)
+- [Instagram](enlace a tu perfil de Instagram)
+- [Otro enlace relevante](enlace a otra cuenta o perfil relevante)
 
+## Contacto
+Si estás interesado en mi trabajo, puedes contactarme por correo electrónico en [tu correo electrónico].
 
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
+¡Gracias por visitar mi perfil Github!
