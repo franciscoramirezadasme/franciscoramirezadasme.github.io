@@ -27,3 +27,10 @@ Breve descripción del proyecto.
 Si estás interesado en mi trabajo, puedes contactarme por correo electrónico en [tu correo electrónico].
 
 ¡Gracias por visitar mi perfil Github!
+
+
+## Lenguajes
+
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
