@@ -75,12 +75,40 @@
     </header>
     <!-- end header section -->
     <!-- slider section -->
+
+
+    <div id="carrusel">
+      <div class="diapositiva">
+        <img src="images/about-img.png" alt="Imagen 1">
+        <h2>Título 1</h2>
+        <p>Texto de la sección 1</p>
+        <a href="#seccion1">Ir a la sección 1</a>
+      </div>
+      <div class="diapositiva">
+        <img src="imagen2.jpg" alt="Imagen 2">
+        <h2>Título 2</h2>
+        <p>Texto de la sección 2</p>
+        <a href="#seccion2">Ir a la sección 2</a>
+      </div>
+      <div class="diapositiva">
+        <img src="imagen3.jpg" alt="Imagen 3">
+        <h2>Título 3</h2>
+        <p>Texto de la sección 3</p>
+        <a href="#seccion3">Ir a la sección 3</a>
+      </div>
+    </div>
+
     <section class=" slider_section position-relative">
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">01</li>
           <li data-target="#carouselExampleIndicators" data-slide-to="1">02</li>
         </ol>
+
+
+        
+
+          <!-- First Item-->
         <div class="carousel-inner">
           <div class="carousel-item active">
             <div class="container">
@@ -89,17 +117,15 @@
                   <div class="detail-box">
                     <div>
                       <h1>
-                        Welcome To <br>
+                        Welcome To my github Page <br>
                         <span>
-                          Content Writing Services
+                            This page was created in order to have visibility to my personal projects in different technologies. Services
                         </span>
                       </h1>
                       <p>
-                        It is a long established fact that a reader will be distracted by the readable content of a page
-                        when looking
                       </p>
                       <div class="btn-box">
-                        <a href="" class="btn-1">
+                        <a class="btn-1" name="send_about" id="send_about" onclick="addClickListener(this)">
                           Contact Us
                         </a>
                       </div>
@@ -109,6 +135,7 @@
               </div>
             </div>
           </div>
+          <!-- Second Item-->
           <div class="carousel-item">
             <div class="container">
               <div class="row">
@@ -116,17 +143,16 @@
                   <div class="detail-box">
                     <div>
                       <h1>
-                        Welcome To <br>
+                        Why?  <br>
                         <span>
-                          Content Writing Services
+                          I develop because I like it and understanding it is an essential part of implementing.
                         </span>
                       </h1>
                       <p>
-                        It is a long established fact that a reader will be distracted by the readable content of a page
-                        when looking
+                        This site is updated when I see that something interesting or new technologies appear with dynamics that generate greater efficiency and simplicity in development.
                       </p>
                       <div class="btn-box">
-                        <a href="" class="btn-1">
+                        <a class="btn-1" name="send_contact_us" id="send_contact_us"  onclick="addClickListener(this)">
                           Contact Us
                         </a>
                       </div>
@@ -159,16 +185,14 @@
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                About Us
+                About Code
               </h2>
             </div>
             <p>
-              It is a long established fact that a reader will be distracted by the readable content of a page when
-              looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of
-              letters, as opposed to using 'Content here, content here', making it look like readable English. Many
-              desktop publishing packages and web page editors now use Lorem Ipsum as their
+              Some time ago I wanted to create a space where I could post new ideas or implement new tools in a more orderly place.
+              This allows a centralized and more standardized repository to be generated
             </p>
-            <a href="">
+            <a  href="">
               Get Started
             </a>
           </div>
@@ -202,15 +226,31 @@
                 <img src="images/s-1.png" alt="">
               </div>
               <h4>
-                Written with Love
+                Written with Code
               </h4>
               <p>
-                It is a long established fact that a reader will be distracted by the readable content of a page when
-                looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution
-                of
-                letters, as opposed to using 'Content here, content t,
+                What is the difference between coding and programming?
+                The terms coding and programming are often used interchangeably.
+                but they don't always mean the same thing.
+
+
               </p>
-              <a href="">
+              <p>
+                While coding and programming involve writing instructions for a computer,
+                programming can also include algorithms and data structures or more complex models that include
+                model software under business needs or looking for solutions using various technologies
+
+              </p>
+              <p>
+                What do I think? all code must have a search to obtain a result that satisfies the requirements
+                that are established under the principles that technology can provide. In this way,
+                no matter how much you want to make a page in a language that is not as simple as HTML in Assembler,
+                since it would take time, although there are already tools that perform the same work in a more simple way,
+                this is what leads to programming at the time of coding this is more efficient to have a result that meets
+                my needs and without reinventing the wheel.
+
+              </p>
+              <a  name="send_written_code" id="send_written_code"  onclick="addClickListener(this)">
                 Read More
               </a>
             </div>
@@ -499,8 +539,9 @@
   </section>
   <!-- footer section -->
 
-  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
-  <script type="text/javascript" src="js/bootstrap.js"></script>
+  <script type="text/javascript" src="/js/jquery-3.7.0.min.js"></script>
+  <script type="text/javascript" src="/js/bootstrap.js"></script>
+  <script type="text/javascript" src="/js/reference.js"></script>
 
 </body>
 
